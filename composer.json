@@ -1,0 +1,15 @@
+{
+    "name": "bladestudios/emailer",
+    "autoload": {
+        "psr-4": {
+            "Bladestudios\\Emailer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Blade Studios",
+            "email": "bladestudiosit@gmail.com"
+        }
+    ],
+    "require": {}
+}
